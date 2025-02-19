@@ -1,0 +1,4 @@
+org/example/DiscordBot$MessageListener.class
+org/example/CommandExecutor.class
+org/example/DiscordBot.class
+org/example/TelegramBot.class

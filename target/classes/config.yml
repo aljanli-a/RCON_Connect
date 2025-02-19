@@ -1,0 +1,11 @@
+bot:
+  type: "telegram" # Options: "discord", "telegram"
+telegram:
+  token: "YOUR_TELEGRAM_BOT_TOKEN"
+  allowed_chat_ids:
+    - "CHAT_ID_1"
+    - "CHAT_ID_2"
+    - "CHAT_ID_3"
+discord:
+  token: "YOUR_DISCORD_BOT_TOKEN"
+  channel_id: "YOUR_DISCORD_CHANNEL_ID"

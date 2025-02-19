@@ -1,0 +1,8 @@
+name: DiscordCommandExecutor
+main: org.example.CommandExecutor
+version: 1.0
+api-version: 1.19
+description: A plugin to execute commands from a specific Discord channel as console commands in Minecraft
+author: YourName
+commands: {}
+permissions: {}
